@@ -1,2 +1,1 @@
-# Navigator
-Mobile App for Navigator
+# mobile
